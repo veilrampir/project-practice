@@ -1,1 +1,33 @@
-﻿.vs/
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Rider IDE
+.idea/
+
+# Node/npm
+node_modules/
+
+# Logs
+*.log
+
+# Others
+*.cache
+*.pdb
+*.tmp
+*.temp
+
+# Mac OS
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
